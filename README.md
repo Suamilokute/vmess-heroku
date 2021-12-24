@@ -8,7 +8,7 @@
 
 ## 一键部署到Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/HXHGTS/vmess-heroku)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/Suamilokute/vmess-heroku)
 
 ## ENV 设定
 
